@@ -1,8 +1,8 @@
-"""
+""
 Created on Tue Nov 15 12:04:47 2016
 From Umedy course: The Python Bible™
 Section 5: How to use Strings to handle text in Python
-"""
+""
 #Slicer
 x="sdweBIRTHDAYwsdmds"
 print(x.count("d"))
