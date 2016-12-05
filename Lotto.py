@@ -14,4 +14,8 @@ for j in range(1,Draws+1):
     pick.sort()
     print(pick)
 
+    
 
+
+
+    
